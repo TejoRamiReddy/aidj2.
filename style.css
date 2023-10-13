@@ -1,0 +1,27 @@
+.note{
+    font-size: 15px;
+    color:black;
+    
+   }
+   
+   .heading{
+       width:100%;
+       margin-top: 0px;
+       
+   }
+   
+   
+   body{
+    background-image: url(background.avif);
+       background-size: cover;
+   }
+   
+   canvas{
+    background-color: black;
+    margin-top: 80px;
+    border: 5px black;
+    height:10cm;
+    width:10cm;
+ 
+    
+   }
